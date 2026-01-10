@@ -1,1 +1,10 @@
-data/
+data/00_zipped_data/
+data/01_unzipped_data/
+data/02_formatted_data/
+data/03_preprocessed_data/
+data/04_merged_data/
+data/05_extracted_features/
+data/06_split_data/
+data/07_trained_models/
+data/08_predicted_test_results/
+data/09_predicted_live_results/
